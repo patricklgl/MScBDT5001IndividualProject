@@ -50,7 +50,7 @@ The following packages and libraries are required for data preparation:
 
 MScBDT5001IndividualProjectNN&XGBoost.ipynb is for modelling.
 Data file required - train_data_prepared.pkl, 2017_2018PublicHolidayWithoutSunday.csv and test.csv
-Result files - -- best_model_file.h5, pima.pickle.dat, Submission.csv
+Result files - best_model_file.h5, pima.pickle.dat, Submission.csv
 
 The following packages and libraries are only required for training:
 - pip install bayesian-optimization

@@ -88,8 +88,5 @@ The following packages and libraries are required for training and prediction:
 - import xgboost as xgb
 
 Reproduce the result by the following steps:
-1. Import library by running code block 1
-2. Upload best_model_file.h5, pima.pickle.data, test.csv, 2017_2018PublicHolidayWithoutSunday.csv
-3. Load neural network model by running code block 23
-4. Load xgboost model by running code block 36
-5. Reproduce my result (Submission.csv) by running code block 37 to 59
+1. Upload train_data_prepared.pkl, best_model_file.h5, pima.pickle.data, test.csv, 2017_2018PublicHolidayWithoutSunday.csv
+2. Reproduce my result (Submission.csv) by running all code blocks
